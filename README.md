@@ -1,1 +1,1 @@
-# annuity-calculator
+# Annuity calculator
